@@ -1,5 +1,5 @@
 ﻿/*
-Author: Pratik Jaiswal
+Author: Pratik Jaiswal -- edited by Arpan Jaiswal
 Date: 2/28/2024
 Comments: This C# Console Application code demonstrates the
     Selection Sort and Bubble Sort Algorithms. No input

@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Sorting_Project
-build_property.ProjectDir = /Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/
+build_property.ProjectDir = C:\Users\arpan\Source\Repos\SortingProject\Sorting Project\Sorting Project\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
