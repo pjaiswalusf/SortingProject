@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/Sorting Project.csproj": {}
+    "C:\\Users\\arpan\\Source\\Repos\\SortingProject\\Sorting Project\\Sorting Project\\Sorting Project.csproj": {}
   },
   "projects": {
-    "/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/Sorting Project.csproj": {
+    "C:\\Users\\arpan\\Source\\Repos\\SortingProject\\Sorting Project\\Sorting Project\\Sorting Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/Sorting Project.csproj",
+        "projectUniqueName": "C:\\Users\\arpan\\Source\\Repos\\SortingProject\\Sorting Project\\Sorting Project\\Sorting Project.csproj",
         "projectName": "Sorting Project",
-        "projectPath": "/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/Sorting Project.csproj",
-        "packagesPath": "/Users/pratikjaiswal/.nuget/packages/",
-        "outputPath": "/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/",
+        "projectPath": "C:\\Users\\arpan\\Source\\Repos\\SortingProject\\Sorting Project\\Sorting Project\\Sorting Project.csproj",
+        "packagesPath": "C:\\Users\\arpan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\arpan\\Source\\Repos\\SortingProject\\Sorting Project\\Sorting Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/pratikjaiswal/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\arpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
