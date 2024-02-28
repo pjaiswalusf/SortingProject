@@ -1,0 +1,15 @@
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/bin/Debug/net7.0/Sorting Project
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/bin/Debug/net7.0/Sorting Project.deps.json
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/bin/Debug/net7.0/Sorting Project.runtimeconfig.json
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/bin/Debug/net7.0/Sorting Project.dll
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/bin/Debug/net7.0/Sorting Project.pdb
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.csproj.AssemblyReference.cache
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.AssemblyInfoInputs.cache
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.AssemblyInfo.cs
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.csproj.CoreCompileInputs.cache
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.dll
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/refint/Sorting Project.dll
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.pdb
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/Sorting Project.genruntimeconfig.cache
+/Users/pratikjaiswal/Downloads/DIS /Sorting Project/Sorting Project/obj/Debug/net7.0/ref/Sorting Project.dll
